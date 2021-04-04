@@ -1,6 +1,5 @@
 #include <iostream>
 #include <memory>
-#include <memory>
 
 using namespace std;
 class Car
